@@ -2,3 +2,8 @@
 
 This repository contains the projects covered or to be covered In Dsc Sessions 2021
 
+# Cloning the Repository
+
+```
+git clone ```
+
